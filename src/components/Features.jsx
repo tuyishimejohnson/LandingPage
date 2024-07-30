@@ -1,11 +1,11 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faComments, faBullhorn, faPeopleGroup, faCheck } from '@fortawesome/free-solid-svg-icons'
+import { faComments, faBullhorn, faPeopleGroup, faWandMagicSparkles } from '@fortawesome/free-solid-svg-icons'
 
 
-const Features = (props) => {
+const Features = () => {
 
-  let iconArray = [faComments, faBullhorn, faPeopleGroup, faCheck]
+  let iconArray = [faComments, faBullhorn, faPeopleGroup, faWandMagicSparkles]
 
 
     return (
